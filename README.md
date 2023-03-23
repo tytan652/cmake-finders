@@ -1,3 +1,5 @@
+![cmake-finders repository logo](https://repository-images.githubusercontent.com/617985106/dde2a1a0-15b6-4a91-b065-a905e6e6a86c)
+
 # cmake-finders
 Collection of modern CMake find modules.
 
